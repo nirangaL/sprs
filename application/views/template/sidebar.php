@@ -22,7 +22,7 @@
         </li>
 
         <li >
-          <a href="<?php echo base_url('#')?>">
+          <a href="<?php echo base_url('Job')?>">
             <i class="fa fa-th"></i> <span>Jobs</span>
           </a>
         </li>
