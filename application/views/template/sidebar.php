@@ -28,7 +28,7 @@
         </li>
 
         <li >
-          <a href="<?php echo base_url('#')?>">
+          <a href="<?php echo base_url('Worker')?>">
             <i class="fa fa-user"></i> <span>Workers</span>
           </a>
         </li>
